@@ -1,0 +1,5 @@
+JAVA SCRIPT ARRAY METHODS
+lastIndexOf()
+Definition: This method returns the last index at which given element can be found in the array, or it will print (-1),if the given element is not present in the array
+Syntax: lastIndexOf(search element)
+        lastIndexOf(search Element, fromIndex)
